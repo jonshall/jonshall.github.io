@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on Jon S Hall</title>
+    <link>https://jonshall.com/tags/index/</link>
+    <description>Recent content in index on Jon S Hall</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://jonshall.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>https://jonshall.com/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jonshall.com/post/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
