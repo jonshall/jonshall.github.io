@@ -19,6 +19,17 @@
     
     <item>
       <title></title>
+      <link>https://jonshall.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jonshall.com/archives/</guid>
+      
+        <description>archives</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://jonshall.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -35,7 +46,7 @@
       
       <guid>https://jonshall.com/legal/</guid>
       
-        <description>Legal Disclosure Information in accordance with the applicable law
+        <description>| Legal Disclosure | Information in accordance with the applicable law
 Jon S Hall
 Las Vegas | NV
 2022 | GoHugo
@@ -51,17 +62,6 @@ US</description>
       <guid>https://jonshall.com/resume/</guid>
       
         <description>resume</description>
-      
-    </item>
-    
-    <item>
-      <title>ARCHIVES</title>
-      <link>https://jonshall.com/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jonshall.com/archives/</guid>
-      
-        <description>archives</description>
       
     </item>
     
