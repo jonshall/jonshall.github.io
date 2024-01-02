@@ -60,7 +60,7 @@
         <description>| Legal Disclosure | Information in accordance with applicable law.
 Jon S Hall
 LV | NV | US
-2022 - 2023 | GoHugo\</description>
+2022 - &amp;ldquo;{{ YEAR }}&amp;rdquo; | GoHugo\</description>
       
     </item>
     
